@@ -28,12 +28,13 @@ Setup your environment for the Agentic AI Bootcamp.
 
 4. Set up your API keys in `.env`:
    ```
-   OPENAI_API_KEY=your_key_here
+   GEMINI_API_KEY=your_key_here
+   GOOGLE_API_KEY=your_key_here
    ```
 
 ## Verify Installation
 
 Run:
 ```powershell
-python -c "import openai; print('OpenAI installed')"
+python -c "import google.genai; print('Google GenAI installed')"
 ```

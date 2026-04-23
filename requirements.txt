@@ -3,5 +3,6 @@ crewai
 langgraph
 pyautogen
 mcp
+google-genai
 python-dotenv
 jupyter
