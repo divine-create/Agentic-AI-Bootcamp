@@ -5,7 +5,7 @@ Build autonomous AI agents with modern agent frameworks.
 ## Course Structure
 
 - **Week 1**: Foundations - Basic concepts and setup
-- **Week 2**: OpenAI Agents SDK
+- **Week 2**: Gemini Agents SDK
 - **Week 3**: CrewAI
 - **Week 4**: LangGraph
 - **Week 5**: AutoGen
