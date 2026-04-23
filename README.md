@@ -13,7 +13,10 @@ Build autonomous AI agents with modern agent frameworks.
 
 ## Getting Started
 
-See `setup/` directory for platform-specific setup instructions.
+1. **Students**: Follow the [Student Setup Guide](guides/STUDENT_SETUP.md)
+2. **Setup**: See `setup/` directory for platform-specific setup instructions
+
+## Course Structure
 
 ## Requirements
 
