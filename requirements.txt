@@ -6,3 +6,8 @@ mcp
 google-genai
 python-dotenv
 jupyter
+gradio
+pypdf
+rich
+requests
+pydantic

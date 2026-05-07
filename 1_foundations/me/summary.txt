@@ -1,0 +1,17 @@
+## About Me
+
+Replace this file with your own 2-3 paragraph summary before running Lab 3 or 4.
+
+Include:
+- Your professional background (roles, industries, years of experience)
+- Your key technical skills and areas of expertise
+- What you're currently working on or looking for
+- Any notable projects, achievements, or interests
+
+Example:
+
+I'm a software engineer with 5 years of experience building backend systems and data pipelines at fintech companies in Nairobi. My core stack is Python and Go, and I've spent the last two years working deeply with cloud infrastructure on GCP.
+
+I'm currently interested in Agentic AI systems and how they can automate complex workflows. I've built several internal tools using LLMs and am now exploring multi-agent architectures as part of this bootcamp.
+
+Outside of work, I enjoy hiking, contributing to open-source projects, and mentoring junior developers.
